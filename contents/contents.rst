@@ -51,3 +51,4 @@
 	43_qstringlistmodel
 	44_qfilesystemmodel
 	45_model
+	46_view_delegate
