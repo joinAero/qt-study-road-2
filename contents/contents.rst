@@ -54,3 +54,7 @@
     46_view_delegate
     47_view_selection
     48_qsortfilterproxymodel
+    49_custom_readonly_model
+    50_custom_editable_model
+    51_bool_tree_model
+    52_dnd
