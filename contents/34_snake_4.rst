@@ -103,5 +103,5 @@
 
 文末的附件中是我们当前的全部代码。如果你检查下这部分代码，会发现我们其实还没有完成整个游戏：Wall 对象完全没有实现，难度控制也没有完成。当然，通过我们的讲解，希望你已经理解了我们设计的原则以及各部分代码之间的关系。如果感兴趣，可以继续完成这部分代码。豆子在 github 上面创建了一个代码库，如果你感觉自己的改进比较成功，或者希望与大家分享，欢迎 clone 仓库提交代码！
 
-* 附件：:download:`snake <srcs/snake.zip>`
+* 附件：:download:`snake <res/snake.zip>`
 * git：``git@github.com:devbean/snake-game.git``

@@ -1,7 +1,7 @@
 .. _dnd:
 
 `52. 使用拖放 <http://www.devbean.net/2013/05/qt-study-road-2-dnd/>`_
-=========================================================================================
+=====================================================================
 
 :作者: 豆子
 
@@ -194,4 +194,4 @@ performDrag() 开始处理拖放的过程。这里，我们要创建一个 QDrag
 
 dragMoveEvent() 和 dropEvent() 相似。首先判断事件的来源（source），由于我们是两个 ProjectListWidget 之间相互拖动，所以来源应该是 ProjectListWidget 类型的（当然，这个 source 不能是自己，所以我们还得判断 source != this）。dragMoveEvent() 中我们检查的是被拖动的对象；dropEvent() 中我们检查的是释放的对象：这二者是不同的。
 
-附件：:download:`ProjectListWidget <srcs/ProjectListWidget.zip>`
+附件：:download:`ProjectListWidget <res/ProjectListWidget.zip>`

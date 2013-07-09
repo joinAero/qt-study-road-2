@@ -127,5 +127,5 @@ QFileDialog::getOpenFileName() 返回值是选择的文件路径。我们将其�
 
 本章的代码可以在这里下载：
 
-* :download:`ch17-qt4.zip <srcs/ch17-qt4.zip>`
-* :download:`ch17-qt5.zip <srcs/ch17-qt5.zip>`
+* :download:`ch17-qt4.zip <res/ch17-qt4.zip>`
+* :download:`ch17-qt5.zip <res/ch17-qt5.zip>`

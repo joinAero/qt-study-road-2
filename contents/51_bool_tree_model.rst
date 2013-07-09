@@ -436,4 +436,4 @@ parent() 函数返回子节点所属的父节点的索引。我们需要从子�
 
 .. image:: imgs/51/boolean-parser.png
 
-最后，我们附上整个项目的代码：:download:`下载 <srcs/booleanparser.zip>`
+最后，我们附上整个项目的代码：:download:`下载 <res/booleanparser.zip>`

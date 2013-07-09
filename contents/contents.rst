@@ -58,3 +58,8 @@
     50_custom_editable_model
     51_bool_tree_model
     52_dnd
+    53_dnd_data
+    54_clipboard
+    55_database
+    56_sql_model
+    57_show_sql_data

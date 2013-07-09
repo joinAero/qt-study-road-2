@@ -6,4 +6,4 @@
 
 * 采用 reStructuredText 纯文本标记语法，并使用 Sphinx 生成 HTML / CHM / PDF 等文档格式。
 
-* 或者，到这里下载生成好的 CHM ：`qt-study-road-2-52-130523.chm <https://add110.opendrive.com/files?71284714_jihDA>`_
+* 或者，到这里下载生成好的 PDF ：`qt-study-road-2-57.pdf <https://www.opendrive.com/files?73169035_vePo7>`_
