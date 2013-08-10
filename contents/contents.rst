@@ -63,3 +63,6 @@
     55_database
     56_sql_model
     57_show_sql_data
+    58_edit_sql_fk
+    59_read_xml_with_stream
+    60_read_xml_with_dom
