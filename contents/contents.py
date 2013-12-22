@@ -19,7 +19,7 @@ def get_catalogs():
 def get_infos(article_url):
 	"""获取文章的内想要的信息"""
 	html = fetch_html(article_url)
-	patt = r'日期:\s+?(\d{4} 年 \d{2} 月 \d{2} 日)'
+	patt = r'<span class="thetime">.+?(\d{4} 年 \d{2} 月 \d{2} 日)</span>'
 	res = re.search(patt, html)
 	if res:
 		date = res.group(1).replace(' ', '')
@@ -56,9 +56,6 @@ def write_file(filename, content):
 		f.write(content)
 
 def main():
-	# print temp_rst('qt_intro', '2. Qt 简介', 'http://www.devbean.net/2012/08/qt-study-road-2-qt-intro/', '2012年08月21日')
-	# print get_infos('http://www.devbean.net/2012/08/qt-study-road-2-catelog/')
-
 	x, y = 0, 0
 	fname_list = []
 	catalog_list = get_catalogs()
@@ -89,4 +86,6 @@ def main():
 	# 	print(fname[:-4])
 
 if __name__ == '__main__':
+	# print temp_rst('qt_intro', '2. Qt 简介', 'http://www.devbean.net/2012/08/qt-study-road-2-qt-intro/', '2012年08月21日')
+	# print get_infos('http://www.devbean.net/2012/08/qt-study-road-2-catelog/')
 	main()
