@@ -82,3 +82,5 @@
     74_thread_and_qobject.rst
     75_thread_summary.rst
     76_qml_and_qtquick2.rst
+    77_qml_syntax.rst
+    78_qml_basic_element.rst
