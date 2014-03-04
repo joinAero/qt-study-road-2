@@ -8,9 +8,10 @@
 =================================================================
 
 .. toctree::
-	:maxdepth: 2
+   :maxdepth: 2
 
-	contents/contents
+   contents/contents
+   articles/articles
 
 索引和表格
 ==========

@@ -66,21 +66,24 @@
     58_edit_sql_fk
     59_read_xml_with_stream
     60_read_xml_with_dom
-    61_read_xml_with_sax.rst
-    62_save_xml.rst
-    63_qjson.rst
-    64_qjsondocument.rst
-    65_access_network_1.rst
-    66_access_network_2.rst
-    67_access_network_3.rst
-    68_access_network_4.rst
-    69_process.rst
-    70_ipc.rst
-    71_thread_intro.rst
-    72_thread_and_event_loop.rst
-    73_thread_related_classes.rst
-    74_thread_and_qobject.rst
-    75_thread_summary.rst
-    76_qml_and_qtquick2.rst
-    77_qml_syntax.rst
-    78_qml_basic_element.rst
+    61_read_xml_with_sax
+    62_save_xml
+    63_qjson
+    64_qjsondocument
+    65_access_network_1
+    66_access_network_2
+    67_access_network_3
+    68_access_network_4
+    69_process
+    70_ipc
+    71_thread_intro
+    72_thread_and_event_loop
+    73_thread_related_classes
+    74_thread_and_qobject
+    75_thread_summary
+    76_qml_and_qtquick2
+    77_qml_syntax
+    78_qml_basic_element
+    79_qml_component
+    80_positioner
+    81_qml_layout
