@@ -87,3 +87,4 @@
     79_qml_component
     80_positioner
     81_qml_layout
+    82_qml_input_elements
